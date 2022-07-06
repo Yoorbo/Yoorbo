@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student and developer from Germany</h3>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoorbo&" alt="yoorbo" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yoorbo&theme=github-dark" alt="yoorbo" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yoorbo&label=Profile%20views&color=0e75b6&style=flat" alt="yoorbo" /> </p>
 
 
